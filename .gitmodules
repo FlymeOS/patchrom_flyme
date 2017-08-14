@@ -10,3 +10,7 @@
 	path = devices/base
 	url = git@github.com:FlymeOS/devices-base.git
 	branch = marshmallow-6.0
+[submodule "flyme/overlay"]
+	path = flyme/overlay
+	url = git@github.com:FlymeOS/flyme-overlay.git
+	branch = marshmallow-6.0
