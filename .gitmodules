@@ -6,3 +6,7 @@
 	path = tools
 	url = git@github.com:FlymeOS/tools.git
 	branch = marshmallow-6.0
+[submodule "devices/base"]
+	path = devices/base
+	url = git@github.com:FlymeOS/devices-base.git
+	branch = marshmallow-6.0
