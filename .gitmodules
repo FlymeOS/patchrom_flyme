@@ -18,3 +18,7 @@
 	path = tutorials
 	url = git@github.com:FlymeOS/tutorials.git
 	branch = marshmallow-6.0
+[submodule "plugins"]
+	path = plugins
+	url = git@github.com:FlymeOS/plugins.git
+	branch = marshmallow-6.0
