@@ -22,3 +22,7 @@
 	path = plugins
 	url = git@github.com:FlymeOS/plugins.git
 	branch = marshmallow-6.0
+[submodule "flyme/release"]
+	path = flyme/release
+	url = git@github.com:FlymeOS/flyme-release.git
+	branch = marshmallow-6.0
