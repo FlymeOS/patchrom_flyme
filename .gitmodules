@@ -1,28 +1,28 @@
 [submodule "build"]
 	path = build
-	url = git@github.com:FlymeOS/build.git
+	url = https://github.com/FlymeOS/build.git
 	branch = marshmallow-6.0
 [submodule "tools"]
 	path = tools
-	url = git@github.com:FlymeOS/tools.git
+	url = https://github.com/FlymeOS/tools.git
 	branch = marshmallow-6.0
 [submodule "devices/base"]
 	path = devices/base
-	url = git@github.com:FlymeOS/devices-base.git
+	url = https://github.com/FlymeOS/devices-base.git
 	branch = marshmallow-6.0
 [submodule "flyme/overlay"]
 	path = flyme/overlay
-	url = git@github.com:FlymeOS/flyme-overlay.git
+	url = https://github.com/FlymeOS/flyme-overlay.git
 	branch = marshmallow-6.0
 [submodule "tutorials"]
 	path = tutorials
-	url = git@github.com:FlymeOS/tutorials.git
+	url = https://github.com/FlymeOS/tutorials.git
 	branch = marshmallow-6.0
 [submodule "plugins"]
 	path = plugins
-	url = git@github.com:FlymeOS/plugins.git
+	url = https://github.com/FlymeOS/plugins.git
 	branch = marshmallow-6.0
 [submodule "flyme/release"]
 	path = flyme/release
-	url = git@github.com:FlymeOS/flyme-release.git
+	url = https://github.com/FlymeOS/flyme-release.git
 	branch = marshmallow-6.0
